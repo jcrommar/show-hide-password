@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #f8f8f8;
+    background: #58D68D;
 }
 .inputBox
 {
@@ -37,7 +37,7 @@ body {
                 4px 4px 10px rgba(0,0,0,0.05)
 }
 .inputBox input::placeholder {
-    color: #ccc;
+    color: #000;
 }
 #toggle {
     position: absolute;
